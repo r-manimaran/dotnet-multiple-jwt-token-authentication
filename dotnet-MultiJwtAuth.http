@@ -1,0 +1,6 @@
+@dotnet_MultiJwtAuth_HostAddress = http://localhost:5037
+
+GET {{dotnet_MultiJwtAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
